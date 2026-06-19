@@ -1,0 +1,15 @@
+Cliente: Thaynara
+Produto: Short
+Quantidade: 1
+Valor Bruto: R$37.00
+Desconto: R$0.00
+Valor Final: R$37.00
+------------------------------
+Cliente: Camila
+Produto: Bone
+Quantidade: 50
+Valor Bruto: R$2500.00
+Desconto: R$125.00
+Valor Final: R$2375.00
+------------------------------
+Total de vendas: R$2412.00
