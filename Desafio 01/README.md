@@ -1,4 +1,4 @@
-# 📋 Sistema de Gestão de Funcionários
+# Sistema de Gestão de Funcionários
 
 Sistema de linha de comando em Python para cadastrar funcionários, gerar relatórios e salvar dados em arquivo de texto.
 
